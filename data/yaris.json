@@ -1,0 +1,6 @@
+{
+	"Aerodynamic_coefficient[-]":0.31,
+	"Frontal_area[m2]":2,
+	"Weight[kg]": 900,
+	"Rolling_resistance_coefficient[-]":0.012
+}
